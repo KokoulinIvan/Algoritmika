@@ -19,7 +19,7 @@ txt_hinttest3 = '0'
 txt_starttest1 = 'Начать первый тест'
 txt_starttest2 = 'Начать делать приседания'
 txt_starttest3 = 'Начать финальный тест'
-
+txt_timer = ""
 txt_age = 'Полных лет:'
 txt_finalwin = 'Результаты'
 txt_index = 'Индекс:'
@@ -29,4 +29,3 @@ txt_res2 = 'Удволетворительная, обратитесь к вра
 txt_res3 = 'Средняя, но все же сходите к врачу'
 txt_res4 = 'Выше среднего'
 txt_res5 = 'Высокая'
-txt_timer = ' '
