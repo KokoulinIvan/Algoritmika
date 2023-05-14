@@ -96,7 +96,7 @@ class TestWin(QWidget):
         self.timer.start(1500)
     def timer2Event(self):
         global time
-        time = time.addSecs(-1)
+        time = time.addSecs(-0.5)
         self.text_timer.setText(time.toString("hh:mm:ss")[6:8])
         self.text_timer.setFont(QFont("Times", 26, QFont.Bold))
         self.text_timer.setStyleSheet("color: rgb(0,0,0)")
