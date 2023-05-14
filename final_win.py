@@ -23,6 +23,6 @@ class FinalWin(QWidget):
             self.line.addWidget(self.index, alignment=Qt.AlignCenter)
             self.line.addWidget(self.workheart, alignment=Qt.AlignCenter)
             self.setLayout(self.line)
-            gnment=Qt.AlignCenter)
+            agnment=Qt.(AlignCenter)
             self.setLayout(self.line)
             
